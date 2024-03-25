@@ -1,0 +1,59 @@
+﻿@page "/Counter" 
+@inject NavigationManager NavigationManager
+
+<h1>Rides Available</h1>
+
+<div>
+    <h2>Bicycle Ride - 100franc </h2>
+    <p>The cheapest ride, for shorter distances</p>
+    <button @onclick="() => BookRide(1)">Book Bicycle</button>, 
+</div>
+
+<div>
+    <h2>BodaBoda Taxi - 200franc</h2>
+    <p>Travel to your destination fast using BodaBoda </p>
+    <button @onclick="() => BookRide(2)">Book Boda</button>
+    <img src="img/Bicyleride.jpg" width="100px " alt="">
+</div>
+
+<div>
+    <h2>Cart Delivery - 150franc </h2>
+    <p>We deliver your goods safely,over long distances</p>
+    <button @onclick="() => BookRide(3)">Book Cart</button>
+</div>
+
+<div>
+    <h2>Courier Services - 120franc</h2>
+    <p>Organise deliveries and receive packages too </p>
+    <button @onclick="() => BookRide(4)">Book Courier</button>
+</div>
+
+@code {
+    // Method to book a ride
+    void BookRide(int rideId)
+    {
+        // Define the navigation URLs for each ride
+        string navigationUrl = "";
+        switch (rideId)
+        {
+            case 1:
+                navigationUrl = "/weather"; // URL for the weather page
+                break;
+            case 2:
+                navigationUrl = "/weather"; // URL for the weather page
+                break;
+            case 3:
+                navigationUrl = "/weather"; // URL for the weather page
+                break;
+            case 4:
+                navigationUrl = "/weather"; // URL for the weather page
+                break;
+            default:
+                // Handle unexpected ride IDs
+                return;
+        }
+
+        // Navigate to the specified URL
+        NavigationManager.NavigateTo(navigationUrl);
+    }
+}

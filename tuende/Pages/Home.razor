@@ -1,0 +1,39 @@
+﻿@page "/"
+
+@inject NavigationManager NavigationManager
+
+<h1>TUENDE</h1>
+<p>Safiri popote, Lipa kidogo</p>
+<img src="img/tuendeimage.jpeg" alt="">
+
+
+<div>
+    <!-- Pickup Component -->
+    <label for="pickupInput">Pickup Location:</label>
+    <input type="text" id="pickupInput" @bind="PickupLocation" />
+</div>
+
+<div>
+    <!-- Pickup Component -->
+    <label for="destinationInput">Destination Location:</label>
+    <input type="text" id="pickupInput" @bind="DestinationLocation" />
+</div>
+
+<div>
+    <!-- Price Display Component -->
+    <h2>Prices</h2>
+    <button @onclick="GoToRidesPage">See Prices</button>
+</div>
+
+@code {
+    // C# code-behind properties
+    string PickupLocation { get; set; }
+    string DestinationLocation { get; set; }
+    decimal CalculatedPrice { get; set; }
+
+    // Method to navigate to the rides page
+    void GoToRidesPage()
+    {
+        NavigationManager.NavigateTo("/counter");
+    }
+}

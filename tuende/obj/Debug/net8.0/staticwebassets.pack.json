@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\obj\\Debug\\net8.0\\compressed\\r0t231nigr.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\obj\\Debug\\net8.0\\scopedcss\\bundle\\catalogue.styles.css",
+      "PackagePath": "staticwebassets\\catalogue.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\counter.css",
+      "PackagePath": "staticwebassets\\counter.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\img\\Bicycle.jpeg",
+      "PackagePath": "staticwebassets\\img\\Bicycle.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\img\\Bicyleride.jpg",
+      "PackagePath": "staticwebassets\\img\\Bicyleride.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\img\\Bodaimage.jpeg",
+      "PackagePath": "staticwebassets\\img\\Bodaimage.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\img\\WhatsApp Image 2023-12-13 at 12.03.31 PM.jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2023-12-13 at 12.03.31 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\img\\tuendeimage.jpeg",
+      "PackagePath": "staticwebassets\\img\\tuendeimage.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Tuende Repository\\Tuendewebapp.github.io\\tuende\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.catalogue.props",
+      "PackagePath": "build\\catalogue.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.catalogue.props",
+      "PackagePath": "buildMultiTargeting\\catalogue.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.catalogue.props",
+      "PackagePath": "buildTransitive\\catalogue.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.catalogue.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

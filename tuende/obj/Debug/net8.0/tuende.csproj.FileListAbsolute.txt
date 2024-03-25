@@ -1,0 +1,6 @@
+C:\Users\Hp\Documents\TuendeFrontEnd\tuende\obj\Debug\net8.0\tuende.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\TuendeFrontEnd\tuende\obj\Debug\net8.0\tuende.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\TuendeFrontEnd\tuende\obj\Debug\net8.0\tuende.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\TuendeFrontEnd\tuende\obj\Debug\net8.0\tuende.AssemblyInfo.cs
+C:\Users\Hp\Documents\TuendeFrontEnd\tuende\obj\Debug\net8.0\tuende.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\TuendeFrontEnd\tuende\obj\Debug\net8.0\tuende.MvcApplicationPartsAssemblyInfo.cache
